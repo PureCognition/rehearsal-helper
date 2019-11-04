@@ -3,8 +3,9 @@ This is a small program I wrote to help my daughter practice her lines for her m
 
 # To Run:
 You may need to run:
-pip install pyttsx3
-That's the dependency for the TTS library I used.
+* pip install pyttsx3
+
+*That's the dependency for the TTS library I used.
 
 Then, simply run:
-python main.py
+* python main.py
