@@ -1,0 +1,301 @@
+{
+  "title": "The Star",
+  "character": "Thaddeus",
+  "actor": "Arya Lauffer",
+  "scenes": [
+    {
+      "number": 8,
+      "title": "The Wisemen Visit Herod",
+      "parts": [
+        {
+          "number": 0,
+          "lines": [
+            {
+              "number": 0,
+              "character": "SCRIBE 1",
+              "content": "Your Majesty, three magi bearing gifts for the king"
+            },
+            {
+              "number": 1,
+              "content": "Hold it right there, camels!"
+            }
+          ]
+        },
+        {
+          "number": 1,
+          "lines": [
+            {"number": 0, "character": "RUFUS", "content": "I bet they can play that game we made up."},
+            {"number": 1, "content": "That was fun.  What was it called again?"}
+          ]
+        },
+        {
+          "number": 2,
+          "lines": [
+            {"number": 0, "character": "RUFUS", "content": "\"How high.\" (SNICKERING)"},
+            {"number": 1, "content": "On Three.  One, Two..."},
+            {"number": 2, "character": "BOTH DOGS", "content": "Three!"},
+            {"number": 3, "content": "How high!"}
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Thaddeus and Rufus Hear Abby's Story",
+      "parts": [
+        {
+          "number": 0,
+          "lines": [
+            {
+              "number": 0,
+              "character": "RUFUS",
+              "content": "Nice Story, rat.  Here's how it ends.  I eat you.  The end."
+            },
+            {
+              "number": 1,
+              "content": "Rufus, we need that rat to talk."
+            }
+          ]
+        },
+        {
+          "number": 1,
+          "lines": [
+            {"number": 0,
+              "character": "ABBY",
+              "content": "It is in the rodent family but an entirely different species."},
+            {"number": 1,
+              "content": "Now it's our turn to hear this story, from the beginning."}
+          ]
+        },
+        {
+          "number": 2,
+          "lines": [
+            {"number": 0,
+              "character": "ABBY",
+              "content": "Her name is Mary.  She lives in Nazareth.  But, please, don't hurt her.  She's really nice."},
+            {"number": 1,
+              "content": "Don't worry.  We're harmless.  (laugh evilly and exit)"}
+          ]
+        },
+        {
+          "number": 3,
+          "lines": [
+            {"number": 0,
+              "character": "DAVE",
+              "content": "Hey!  Scary dogs!  You guys here for the show?"},
+            {"number": 1,
+              "content": "What show?"},
+            {"number": 2,
+              "character": "DAVE",
+              "content": "The Dance of the Royal Dove of course.  Played in Rome 2 seasons, Caesar loved it."},
+            {"number": 3,
+              "content": "We don't have time for this."}
+          ]
+        },
+        {
+          "number": 4,
+          "lines": [
+            {"number": 0,
+              "character": "DAVE",
+              "content": "No, guys, this is the best part!"},
+            {"number": 1,
+              "content": "(to Bo) Where's your owner?"}
+          ]
+        },
+        {
+          "number": 5,
+          "lines": [
+            {"number": 0,
+              "character": "RUFUS",
+              "content": "That's her."},
+            {"number": 1,
+              "content": "Where is she?"},
+            {"number": 2,
+              "character": "BO",
+              "content": "Wait, you're looking for Mary?  Did I say \"pregnant lady\"?  I mean \"miller.\"  I'm just a mill donkey on vacation."},
+             {"number": 3,
+              "content": "Who's Mary?  Keep talking."}
+          ]
+        },
+        {
+          "number": 6,
+          "lines": [
+            {"number": 0,
+              "character": "BO",
+              "content": "Wait, what?"},
+            {"number": 1,
+              "content": "He didn't bandage himself. (sniffs his bandage on his leg)"},
+            {"number": 2,
+              "character": "RUFUS",
+              "content": "That's her scent.  Now we just gotta follow it."},
+             {"number": 3,
+              "content": "We'll tell her you said hello. (dogs exit)"}
+          ]
+        },
+        {
+          "number": 7,
+          "lines": [
+            {"number": 0,
+              "character": "DAVE",
+              "content": "Fine!  Deal.  I know a shortcut."},
+            {"number": 1,
+              "character": "STAGE DIRECTIONS",
+              "content": "(Dave and Bo exit, and Thaddeus and Rufus come from around the corner, they were eavesdropping.)"},
+            {"number": 2,
+              "content": "(snickers) He'll lead us right to her."},
+            {"number": 3,
+              "character": "RUFUS",
+              "content": "And then what?"},
+             {"number": 4,
+              "content": "Then we find the baby."}
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "title": "Finding Mary and Joseph",
+      "parts": [
+        {
+          "number": 0,
+          "lines": [
+            {
+              "number": 0,
+              "character": "RUTH",
+              "content": "We stopped him!  That went great, right?"
+            },
+            {
+              "number": 1,
+              "character": "STAGE DIRECTIONS",
+              "content": "(teasing the dogs who are still tied to the post)"
+            },
+            {
+              "number": 2,
+              "content": "Come here."
+            },
+                        {
+              "number": 3,
+              "character": "RUFUS",
+              "content": "You want some of this?"
+            },
+            {
+              "number": 4,
+              "character": "DAVE",
+              "content": "What's the matter, guys?  All tied up?"
+            },
+            {
+              "number": 5,
+              "content": "That's it, you're dead."
+            },
+            {
+              "number": 6,
+              "character": "DAVE",
+              "content": "Thank you.  Thank you very much."
+            },
+            {
+              "number": 7,
+              "content": "I hate that dancing bird."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "title": "Arrival in Bethlehem",
+      "parts": [
+        {
+          "number": 0,
+          "lines": [
+            {
+              "number": 0,
+              "character": "DAVE",
+              "content": "I am a delight.  Thank you for noticing.  Okay, time to activate Operation Rescue Bo."
+            },
+            {
+              "number": 1,
+              "character": "STAGE DIRECTION",
+              "content": "(Dave and Ruth exit to find Bo, we see the dogs enter)"
+            },
+            {
+              "number": 2,
+              "content": "(sniffing) She's here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "title": "Defeating the Dogs",
+      "parts": [
+        {
+          "number": 0,
+          "lines": [
+            {
+              "number": 0,
+              "content": "Well, well...Look who it is."
+            },
+            {
+              "number": 1,
+              "character": "RUFUS",
+              "content": "We should've eaten him the first time we met him."
+            },
+            {
+              "number": 2,
+              "content": "But, Rufus, if we had eaten him, he would never have led us here."
+            }
+          ]
+        },
+        {
+          "number": 1,
+          "lines": [
+            {
+              "number": 0,
+              "character": "BO",
+              "content": "Donkey kick!"
+            },
+            {
+              "number": 1,
+              "content": "You just made a big mistake.  You're mine!"
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "lines": [
+            {
+              "number": 0,
+              "character": "RUFUS",
+              "content": "I don't wanna die!"
+            },
+            {
+              "number": 1,
+              "content": "Somebody, help!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "title": "Meeting Baby Jesus",
+      "parts": [
+        {
+          "number": 0,
+          "lines": [
+            {
+              "number": 0,
+              "character": "RUFUS",
+              "content": "Aw. Look at him.  Thaddeus, are we good dogs now?"
+            },
+            {
+              "number": 1,
+              "content": "We have to try. (wisemen enter)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
