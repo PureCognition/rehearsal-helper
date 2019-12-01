@@ -1,8 +1,22 @@
+import sys
 import pprint
 import json
 import pyttsx3
+
 pp = pprint.PrettyPrinter(indent=4)
 engine = pyttsx3.init()
+
+readmode = True
+checkmode = False
+
+if len(sys.argv) > 1:
+    mode = sys.argv[1]
+    if mode.upper() == "READ" and mode.upper() != "CHECK":
+        readmode = True
+        checkmode = False
+    elif mode.upper() != "READ" and mode.upper() == "CHECK":
+        readmode = False
+        checkmode = True
 
 with open('thestar-thaddeus.json') as json_file:
     data = json.load(json_file)
@@ -41,9 +55,18 @@ for scene in data['scenes']:
             line_content = line['content']
 
             if my_character:
-                print(f'*{line_character}: {line_content}')
                 print()
-                input("Say line and then press Enter")
+                if readmode:
+                    print(f'*{line_character}: {line_content}')
+                    print()
+                    input("Say line and then press Enter")
+                if checkmode:
+                    input("Say line and then press Enter")
+                    print()
+                    print(f'*{line_character}: {line_content}')
+                    print()
+                    input("Check line and then press Enter")
+                print()
             else:
                 print(f'{line_character}: {line_content}')
                 engine.say(line_content)
